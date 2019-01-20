@@ -14,11 +14,11 @@
       "required": true
     },
     "GOOGLE_CAPTCHA_SECRET": {
-      "description": "6LfVRYsUAAAAAGxWVweLhHFN8HQ8iLRgWq3B2yGQ",
+      "description": "6LfVRYsUAAAAAHGLjtG9y59-cjqyc92hu_AX6Dxx",
       "required": true
     },
     "GOOGLE_CAPTCHA_SITEKEY": {
-      "description": "6LfVRYsUAAAAAHGLjtG9y59-cjqyc92hu_AX6Dxx",
+      "description": "6LfVRYsUAAAAAGxWVweLhHFN8HQ8iLRgWq3B2yGQ",
       "required": true
     },
     "SLACK_COC": {
