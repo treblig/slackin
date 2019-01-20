@@ -6,7 +6,7 @@
   "keywords": ["node", "slack"],
   "env": {
     "SLACK_SUBDOMAIN": {
-      "description": "acquired.slack.com",
+      "description": "acquiredfm.slack.com",
       "required": true
     },
     "SLACK_API_TOKEN": {
