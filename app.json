@@ -6,19 +6,19 @@
   "keywords": ["node", "slack"],
   "env": {
     "SLACK_SUBDOMAIN": {
-      "description": "Your Slack's subdomain (**this**.slack.com)",
+      "description": "acquired.slack.com",
       "required": true
     },
     "SLACK_API_TOKEN": {
-      "description": "A Slack API token (find it on https://api.slack.com/web)",
+      "description": "xoxp-43095048276-43424480594-48666911637-b2a876c9b3",
       "required": true
     },
     "GOOGLE_CAPTCHA_SECRET": {
-      "description": "Google captcha secret key",
+      "description": "6LfVRYsUAAAAAGxWVweLhHFN8HQ8iLRgWq3B2yGQ",
       "required": true
     },
     "GOOGLE_CAPTCHA_SITEKEY": {
-      "description": "Google captcha site key",
+      "description": "6LfVRYsUAAAAAHGLjtG9y59-cjqyc92hu_AX6Dxx",
       "required": true
     },
     "SLACK_COC": {
